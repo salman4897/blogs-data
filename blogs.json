@@ -5,7 +5,7 @@
     "description": "A comprehensive course that covers the basics of C programming, including data types, control structures, and functions. Learn to write C programs and gain practical coding skills. Suitable for beginners.",
     "image": "https://i.ibb.co/JjW7GbG/Rectangle-2.png",
     "price": 15000,
-    "hour": "5h"
+    "hour": "1h"
   },
 
   {
@@ -13,7 +13,7 @@
     "course_name": "Introduction to Algorithms",
     "description": "Explore the fascinating world of algorithms and problem-solving techniques in this in-depth course. Understand different algorithmic paradigms and their applications. Perfect for those looking to enhance their problem-solving skills.",
     "image": "https://i.ibb.co/31vn8mv/Rectangle-2-1.png",
-    "price": 2000,
+    "price": 25000,
     "hour": "2h"
   },
   {
@@ -21,55 +21,55 @@
     "course_name": "Introduction to C++ for DSA",
     "description": "Master C++ programming specifically for data structures and algorithms. Dive into C++ syntax, data structures, and algorithms. A must for anyone preparing for coding interviews.",
     "image": "https://i.ibb.co/v1ZHzr3/Rectangle-2-1.png",
-    "price": 12000,
-    "hour": "4h"
+    "price": 10000,
+    "hour": "10h"
   },
   {
     "id": 4,
     "course_name": "Introduction to OOP Python",
     "description": "Delve into object-oriented programming with Python. Learn the principles of OOP, classes, and inheritance. Practical examples and projects will solidify your Python programming skills.",
     "image": "https://i.ibb.co/L0H3yYr/Rectangle-3.png",
-    "price": 45000,
-    "hour": "1h"
+    "price": 35000,
+    "hour": "5h"
   },
   {
     "id": 5,
     "course_name": "Basic Data Structures",
     "description": "Get a solid foundation in data structures, including arrays, linked lists, and trees. Understand their role in computer science and how to use them in your code.",
     "image": "https://i.ibb.co/gPcrf4h/Rectangle-2-2.png",
-    "price": 23000,
-    "hour": "4h"
+    "price": 19000,
+    "hour": "5h"
   },
   {
     "id": 6,
     "course_name": "Software Engineering",
     "description": "Explore the principles, best practices, and methodologies of software engineering. Learn about software development, design patterns, and the software development life cycle.",
     "image": "https://i.ibb.co/vd3bJSq/Rectangle-2-3.png",
-    "price": 35000,
-    "hour": "7h"
+    "price": 23000,
+    "hour": "2h"
   },
   {
     "id": 7,
     "course_name": "AWS",
     "description": "Gain hands-on experience with Amazon Web Services (AWS). Learn to deploy applications, manage resources, and optimize your cloud infrastructure.",
     "image": "https://i.ibb.co/N78c772/Rectangle-3-1.png",
-    "price": 15000,
-    "hour": "3h"
+    "price": 35000,
+    "hour": "5h"
   },
   {
     "id": 8,
     "course_name": "Cloud Computing",
     "description": "Discover the world of cloud computing and its technologies, including virtualization, containers, and cloud security. Get ready to navigate the cloud landscape.",
     "image": "https://i.ibb.co/7jWhzJx/Rectangle-2-4.png",
-    "price": 20000,
-    "hour": "2h"
+    "price": 19000,
+    "hour": "5h"
   },
   {
     "id": 9,
     "course_name": "Database (MySQL)",
     "description": "Learn the ins and outs of database management with MySQL. Cover data modeling, SQL queries, and database administration. Suitable for beginners and those with some experience.",
     "image": "https://i.ibb.co/5Mb8qkc/Rectangle-2-5.png",
-    "price": 16000,
+    "price": 23000,
     "hour": "2h"
   }
 ]
