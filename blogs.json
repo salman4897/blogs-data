@@ -1,66 +1,74 @@
 [
-    {
-      "course name": "Introduction to C Programming",
-      "description": "A comprehensive course that covers the basics of C programming, including data types, control structures, and functions. Learn to write C programs and gain practical coding skills. Suitable for beginners.",
-      "image": "course1.jpg",
-      "price": 15000,
-      "hour": "5h"
-    },
-    {
-      "course name": "Introduction to Algorithms",
-      "description": "Explore the fascinating world of algorithms and problem-solving techniques in this in-depth course. Understand different algorithmic paradigms and their applications. Perfect for those looking to enhance their problem-solving skills.",
-      "image": "course2.jpg",
-      "price": 2000,
-      "hour": "2h"
-    },
-    {
-      "course name": "Introduction to C++ for DSA",
-      "description": "Master C++ programming specifically for data structures and algorithms. Dive into C++ syntax, data structures, and algorithms. A must for anyone preparing for coding interviews.",
-      "image": "course3.jpg",
-      "price": 12000,
-      "hour": "4h"
-    },
-    {
-      "course name": "Introduction to OOP Python",
-      "description": "Delve into object-oriented programming with Python. Learn the principles of OOP, classes, and inheritance. Practical examples and projects will solidify your Python programming skills.",
-      "image": "course4.jpg",
-      "price": 45000,
-      "hour": "1h"
-    },
-    {
-      "course name": "Basic Data Structures",
-      "description": "Get a solid foundation in data structures, including arrays, linked lists, and trees. Understand their role in computer science and how to use them in your code.",
-      "image": "course5.jpg",
-      "price": 23000,
-      "hour": "4h"
-    },
-    {
-      "course name": "Software Engineering",
-      "description": "Explore the principles, best practices, and methodologies of software engineering. Learn about software development, design patterns, and the software development life cycle.",
-      "image": "course6.jpg",
-      "price": 35000,
-      "hour": "7h"
-    },
-    {
-      "course name": "AWS",
-      "description": "Gain hands-on experience with Amazon Web Services (AWS). Learn to deploy applications, manage resources, and optimize your cloud infrastructure.",
-      "image": "course7.jpg",
-      "price": 15000,
-      "hour": "3h"
-    },
-    {
-      "course name": "Cloud Computing",
-      "description": "Discover the world of cloud computing and its technologies, including virtualization, containers, and cloud security. Get ready to navigate the cloud landscape.",
-      "image": "course8.jpg",
-      "price": 20000,
-      "hour": "2h"
-    },
-    {
-      "course name": "Database (MySQL)",
-      "description": "Learn the ins and outs of database management with MySQL. Cover data modeling, SQL queries, and database administration. Suitable for beginners and those with some experience.",
-      "image": "course9.jpg",
-      "price": 16000,
-      "hour": "2h"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "course name": "Introduction to C Programming",
+    "description": "A comprehensive course that covers the basics of C programming, including data types, control structures, and functions. Learn to write C programs and gain practical coding skills. Suitable for beginners.",
+    "image": "course1.jpg",
+    "price": 15000,
+    "hour": "5h"
+  },
+  {
+    "id": 2,
+    "course name": "Introduction to Algorithms",
+    "description": "Explore the fascinating world of algorithms and problem-solving techniques in this in-depth course. Understand different algorithmic paradigms and their applications. Perfect for those looking to enhance their problem-solving skills.",
+    "image": "course2.jpg",
+    "price": 2000,
+    "hour": "2h"
+  },
+  {
+    "id": 3,
+    "course name": "Introduction to C++ for DSA",
+    "description": "Master C++ programming specifically for data structures and algorithms. Dive into C++ syntax, data structures, and algorithms. A must for anyone preparing for coding interviews.",
+    "image": "course3.jpg",
+    "price": 12000,
+    "hour": "4h"
+  },
+  {
+    "id": 4,
+    "course name": "Introduction to OOP Python",
+    "description": "Delve into object-oriented programming with Python. Learn the principles of OOP, classes, and inheritance. Practical examples and projects will solidify your Python programming skills.",
+    "image": "course4.jpg",
+    "price": 45000,
+    "hour": "1h"
+  },
+  {
+    "id": 5,
+    "course name": "Basic Data Structures",
+    "description": "Get a solid foundation in data structures, including arrays, linked lists, and trees. Understand their role in computer science and how to use them in your code.",
+    "image": "course5.jpg",
+    "price": 23000,
+    "hour": "4h"
+  },
+  {
+    "id": 6,
+    "course name": "Software Engineering",
+    "description": "Explore the principles, best practices, and methodologies of software engineering. Learn about software development, design patterns, and the software development life cycle.",
+    "image": "course6.jpg",
+    "price": 35000,
+    "hour": "7h"
+  },
+  {
+    "id": 7,
+    "course name": "AWS",
+    "description": "Gain hands-on experience with Amazon Web Services (AWS). Learn to deploy applications, manage resources, and optimize your cloud infrastructure.",
+    "image": "course7.jpg",
+    "price": 15000,
+    "hour": "3h"
+  },
+  {
+    "id": 8,
+    "course name": "Cloud Computing",
+    "description": "Discover the world of cloud computing and its technologies, including virtualization, containers, and cloud security. Get ready to navigate the cloud landscape.",
+    "image": "course8.jpg",
+    "price": 20000,
+    "hour": "2h"
+  },
+  {
+    "id": 9,
+    "course name": "Database (MySQL)",
+    "description": "Learn the ins and outs of database management with MySQL. Cover data modeling, SQL queries, and database administration. Suitable for beginners and those with some experience.",
+    "image": "course9.jpg",
+    "price": 16000,
+    "hour": "2h"
+  }
+]
