@@ -3,15 +3,16 @@
     "id": 1,
     "course_name": "Introduction to C Programming",
     "description": "A comprehensive course that covers the basics of C programming, including data types, control structures, and functions. Learn to write C programs and gain practical coding skills. Suitable for beginners.",
-    "image": "https://ibb.co/hFxW4n4",
+    "image": "https://i.ibb.co/JjW7GbG/Rectangle-2.png",
     "price": 15000,
     "hour": "5h"
   },
+
   {
     "id": 2,
     "course_name": "Introduction to Algorithms",
     "description": "Explore the fascinating world of algorithms and problem-solving techniques in this in-depth course. Understand different algorithmic paradigms and their applications. Perfect for those looking to enhance their problem-solving skills.",
-    "image": "course2.jpg",
+    "image": "  https://i.ibb.co/31vn8mv/Rectangle-2-1.png",
     "price": 2000,
     "hour": "2h"
   },
