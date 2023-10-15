@@ -3,7 +3,7 @@
     "id": 1,
     "course_name": "Introduction to C Programming",
     "description": "A comprehensive course that covers the basics of C programming, including data types, control structures, and functions. Learn to write C programs and gain practical coding skills. Suitable for beginners.",
-    "image": "course1.jpg",
+    "image": "https://ibb.co/hFxW4n4",
     "price": 15000,
     "hour": "5h"
   },
