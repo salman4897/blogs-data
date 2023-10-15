@@ -20,7 +20,7 @@
     "id": 3,
     "course_name": "Introduction to C++ for DSA",
     "description": "Master C++ programming specifically for data structures and algorithms. Dive into C++ syntax, data structures, and algorithms. A must for anyone preparing for coding interviews.",
-    "image": "course3.jpg",
+    "image": "https://i.ibb.co/v1ZHzr3/Rectangle-2-1.png",
     "price": 12000,
     "hour": "4h"
   },
@@ -28,7 +28,7 @@
     "id": 4,
     "course_name": "Introduction to OOP Python",
     "description": "Delve into object-oriented programming with Python. Learn the principles of OOP, classes, and inheritance. Practical examples and projects will solidify your Python programming skills.",
-    "image": "course4.jpg",
+    "image": "https://i.ibb.co/L0H3yYr/Rectangle-3.png",
     "price": 45000,
     "hour": "1h"
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "course_name": "Basic Data Structures",
     "description": "Get a solid foundation in data structures, including arrays, linked lists, and trees. Understand their role in computer science and how to use them in your code.",
-    "image": "course5.jpg",
+    "image": "https://i.ibb.co/gPcrf4h/Rectangle-2-2.png",
     "price": 23000,
     "hour": "4h"
   },
@@ -44,7 +44,7 @@
     "id": 6,
     "course_name": "Software Engineering",
     "description": "Explore the principles, best practices, and methodologies of software engineering. Learn about software development, design patterns, and the software development life cycle.",
-    "image": "course6.jpg",
+    "image": "https://i.ibb.co/vd3bJSq/Rectangle-2-3.png",
     "price": 35000,
     "hour": "7h"
   },
@@ -52,7 +52,7 @@
     "id": 7,
     "course_name": "AWS",
     "description": "Gain hands-on experience with Amazon Web Services (AWS). Learn to deploy applications, manage resources, and optimize your cloud infrastructure.",
-    "image": "course7.jpg",
+    "image": "https://i.ibb.co/N78c772/Rectangle-3-1.png",
     "price": 15000,
     "hour": "3h"
   },
@@ -60,7 +60,7 @@
     "id": 8,
     "course_name": "Cloud Computing",
     "description": "Discover the world of cloud computing and its technologies, including virtualization, containers, and cloud security. Get ready to navigate the cloud landscape.",
-    "image": "course8.jpg",
+    "image": "https://i.ibb.co/7jWhzJx/Rectangle-2-4.png",
     "price": 20000,
     "hour": "2h"
   },
@@ -68,7 +68,7 @@
     "id": 9,
     "course_name": "Database (MySQL)",
     "description": "Learn the ins and outs of database management with MySQL. Cover data modeling, SQL queries, and database administration. Suitable for beginners and those with some experience.",
-    "image": "course9.jpg",
+    "image": "https://i.ibb.co/5Mb8qkc/Rectangle-2-5.png",
     "price": 16000,
     "hour": "2h"
   }
